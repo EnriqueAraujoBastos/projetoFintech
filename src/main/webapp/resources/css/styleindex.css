@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+
+}
+main{
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: aliceblue;
+}
+
+
+.titulo{
+
+    background: linear-gradient(to right, #007bff, #6610f2);
+    padding: 2rem;
+    color: aliceblue;
+
+}
+
+.sub{
+    font-size: 24px;
+    padding: 0.5rem;
+}
+
+.botao{
+    margin-top: 5rem;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-around
+}
+
+.estilo__botao{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 378px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 15px 0;
+    text-decoration: none;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    transition: 0.5s;
+}
+
+.estilo__botao:hover{
+    background-color: #6610f2;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    margin-top: 7rem;
+    margin-left: 23rem;
+    align-items: center;
+    text-align: center;
+}
+
+.feature-item {
+    flex: 1;
+    padding: 1rem;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.feature-item h2 {
+    font-size: 24px;
+    margin-bottom: 0.5rem;
+}
+
+.feature-item p {
+    font-size: 16px;
+}
+
