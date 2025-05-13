@@ -12,7 +12,7 @@ O Fintech é um sistema financeiro web desenvolvido com tecnologias Java para o 
 
 ## 🧠 Atividades Realizadas
 
-- 📊 **Modelagem do banco de dados** relacional (MySQL ou similar).
+- 📊 **Modelagem do banco de dados** relacional (Oracle SQL Developer).
 - 🔐 Criação de **classes Java com encapsulamento, construtores e herança**.
 - 🗃️ Implementação de **DAOs (Data Access Objects)**, `ConnectionManager` e `DAOFactory`.
 - 🎨 Desenvolvimento das telas com **HTML e CSS**, utilizando **Servlets e JSP** para a integração frontend/backend.
@@ -26,10 +26,10 @@ O Fintech é um sistema financeiro web desenvolvido com tecnologias Java para o 
 
 - **Java (Servlets, JSP)**
 - **HTML5 / CSS3**
-- **MySQL** (ou outro banco relacional)
-- **Tomcat** (servidor de aplicação)
+- **Oracle SQL Developer** 
+- **Tomcat** 
 - **JDBC**
-- **Maven** (gerenciamento de dependências)
+- **Maven**
 - **IDE:** IntelliJ IDEA / Eclipse
 
 ---
